@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Salve seu Bebê - Central de Segurança Infantil</title>
+    <title>Salve seu Bebê</title>
     <style>
         * {
             margin: 0;
